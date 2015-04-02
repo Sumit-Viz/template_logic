@@ -1,0 +1,6 @@
+http://joshualande.com/read-write-json-apache-pig/
+
+https://help.mortardata.com/integrations/amazon_s3/json
+
+http://hortonworks.com/blog/jsonize-anything-in-pig-with-tojson/
+
